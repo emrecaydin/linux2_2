@@ -1,27 +1,4 @@
-emre@bewas:~$ cd planet-categ/
-emre@bewas:~/planet-categ$ find
-.
-./inhabited
-./inhabited/cybertron.jpeg
-./inhabited/arrakis.jpeg
-./inhabited/earth.jpeg
-./real
-./real/terrestrial
-./real/terrestrial/venus.jpeg
-./real/terrestrial/mercury.jpeg
-./real/terrestrial/mars.jpeg
-./real/terrestrial/earth.jpeg
-./real/gas-giants
-./real/gas-giants/uranus.jpeg
-./real/gas-giants/saturn.jpeg
-./real/gas-giants/jupiter.jpeg
-./real/gas-giants/neptune.jpeg
-./fictional
-./fictional/cybertron.jpeg
-emre@bewas:~/planet-categ$ ^C
-emre@bewas:~/planet-categ$ ^C
-emre@bewas:~/planet-categ$ ^C
-emre@bewas:~/planet-categ$ history
+emre@bewas:~$ history
     1  pwd
     2  cd desktop
     3  cd bureau
@@ -515,3 +492,13 @@ emre@bewas:~/planet-categ$ history
   491  cd planet-categ/
   492  find
   493  history
+  494  cd ..
+  495  ls
+  496  cd planets
+  497  ls
+  498  rm -r arrakis.jpeg coruscant.jpeg pluto.jpeg saturn.jpeg 
+  499  ls
+  500  cd ..
+  501  rm -r planets
+  502  ls
+  503  history
