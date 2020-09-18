@@ -18,3 +18,500 @@ emre@bewas:~/planet-categ$ find
 ./real/gas-giants/neptune.jpeg
 ./fictional
 ./fictional/cybertron.jpeg
+emre@bewas:~/planet-categ$ ^C
+emre@bewas:~/planet-categ$ ^C
+emre@bewas:~/planet-categ$ ^C
+emre@bewas:~/planet-categ$ history
+    1  pwd
+    2  cd desktop
+    3  cd bureau
+    4  cd desktop
+    5  cd ..
+    6  cd emre
+    7  pwd
+    8  cd desktop
+    9  mkdir quests
+   10  sudo apt-get install -y curl unzip
+   11  ls
+   12  curl -L -o planets.zip curl -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+   13  ls
+   14  cd planets
+   15  mkdir planets fictifs
+   16  mkdir planets_fictifs
+   17  mkdir planets_reelles
+   18  mkdir planets_habitees
+   19  mkdir planets_terrestre
+   20  mkdir géantes-gazeuses
+   21  mkdir planetes-naines
+   22  copy cybertron.jpeg planetes_fictifs
+   23  cp cybertron.jpeg planetes_fictifs
+   24  cp cybertron.jpeg planetes_fictifs/
+   25  cp cybertron.jpeg planets_fictifs/
+   26  mv cybertron.jpeg planets_fictifs/
+   27  cp earth.jpeg planets_habitees/
+   28  mv arrakis.jpeg planets_fictifs/
+   29  mv mercury.jpeg géantes-gazeuses
+   30  mv mars.jpeg planets_terrestre
+   31  mv pluto.jpeg planetes-naines
+   32  mv saturn.jpeg géantes-gazeues
+   33  mv saturn.jpeg géantes-gazeues/
+   34  mv saturn.jpeg géantes-gazeuses/
+   35  earth.jpeg plnaets_habitees
+   36  mv earth.jpeg plnaets_habitees
+   37  mv earth.jpeg planets_habitees
+   38  mv coruscant.jpeg plnaets_fictifs
+   39  mv coruscant.jpeg planets_fictifs
+   40  mv venus.jpeg planet_reelles
+   41  mv venus.jpeg planets_reelles
+   42  mv venus planets_reelles
+   43  mv uranus.jpeg géantes-gazeuses
+   44  mv neptune.jpeg planets_reelles
+   45  mv jupiter.jpeg géantes-gazeuses
+   46  find
+   47  cd..
+   48  cd ..
+   49  pwd
+   50  cd ~
+   51  pwd
+   52  cd ~home
+   53  cd ~
+   54  pwd
+   55  cd /
+   56  ls
+   57  cd home
+   58  ls
+   59  cd..
+   60  cd ..
+   61  cd ~
+   62  ls
+   63  cd /
+   64  ls
+   65  ls -l
+   66  /tmp
+   67  ls
+   68  /tmp
+   69  cd tmp
+   70  /tmp
+   71  ls
+   72  echo "Je suis moisi" > vieuxtacos.txt
+   73  ls
+   74  cat vieuxtacos.txt
+   75  echo "Je ne suis pas moisi" > vieuxtacos.txt
+   76  cat vieuxtacos.txt
+   77  mv vieuxtacos.txt tacos.txt
+   78  ls
+   79  cat tacos.txt
+   80  rm tacos.txt
+   81  ls
+   82  /opy
+   83  /opt
+   84  cd opt
+   85  cd opt/
+   86  ld
+   87  ls
+   88  ls -l
+   89  /opt
+   90  cd /opt
+   91  mkdir tacosfolder
+   92  mkdir /tacosfolder
+   93  sudo mkdir tacosfolder
+   94  ls
+   95  cd tacosfolder
+   96  cd ..
+   97  cd .
+   98  sudo rm -r tacosfolder
+   99  ls
+  100  cd ..
+  101  cd users
+  102  ls
+  103  cd usr
+  104  cd emre
+  105  cd..
+  106  cd ..
+  107  cd ~/documents
+  108  cd ~/Documents
+  109  mkdir /chalet
+  110  sudo mkdir /chalet
+  111  ls
+  112  sudo mkdir chalet
+  113  ls
+  114  touch fauteuill
+  115  mv fauteuill chalet
+  116  sudo mv fauteuill chalet
+  117  ls
+  118  cd /chalet
+  119  sudo mkdir armure
+  120  ls
+  121  sudo mkdir armoires etageres
+  122  ls
+  123  cp fauteil1 fauteil2
+  124  cd armoires/
+  125  cd ..
+  126  cp fauteil1 fauteil2
+  127  cd ..
+  128  ls
+  129  cd ~/Documents
+  130  touch fauteil1
+  131  mv fauteuil1 chalet
+  132  mv fauteil1 chalet
+  133  sudo mv fauteil1 chalet
+  134  cd /chalet
+  135  cp fauteuil1 fauteuil2
+  136  cd..
+  137  cd ..
+  138  sudo rmdir chalet
+  139  sudo rm chalet
+  140  sudo rm -r  chalet
+  141  cd ~/Documents
+  142  mkdir chalet
+  143  rmdir chalet
+  144  ls -l
+  145  sudo rmdir chalet
+  146  sudo rm -r chalet
+  147  mkdir chalet
+  148  touch fauteil1
+  149  ls
+  150  mv fauteil1 chalet
+  151  ls
+  152  cd chalet
+  153  mkdir armure armoires étageres
+  154  ls
+  155  cd armoires
+  156  cd ..
+  157  cp fauteuil1 fauteuil2
+  158  ls
+  159  cp fauteuil1 fauteuil2
+  160  ls
+  161  cp fauteuil1 fauteuil2
+  162  ls
+  163  touch fauteuil1
+  164  cp fauteuil1 fauteuil2
+  165  touch bibelots
+  166  mv ../bibelots
+  167  rm -r bibelots
+  168  ls
+  169  rm -r fauteil1
+  170  ls
+  171  cd armoires
+  172  cd..
+  173  cd ..
+  174  touch bibelots
+  175  mv ~chalet/armoires
+  176  cd armoires
+  177  mv ../bibelots .
+  178  ls
+  179  find chalet
+  180  cd..
+  181  cd ..
+  182  find
+  183  cd ..
+  184  find chalet
+  185  cd chalet/etageres
+  186  ls
+  187  cd chalet
+  188  ls
+  189  cd étageres
+  190  cd ..
+  191  cd armoire
+  192  cd armoires
+  193  cd
+  194  cd Documents
+  195  cd chalet/armoires
+  196  ls
+  197  mv bibelots ../étageres
+  198  cd /chalet/étageres
+  199  ls
+  200  cd ..
+  201  cd étageres
+  202  ls
+  203  cd ../armoires
+  204  ls
+  205  find chalet
+  206  cd..
+  207  cd ..
+  208  find
+  209  cd ..
+  210  find chalet
+  211  mkdir gitquest
+  212  cd gitquest
+  213  git clone https://github.com/emrecaydin/helloWorld.git
+  214  sudo apt install git
+  215  git clone https://github.com/emrecaydin/helloWorld.git
+  216  ls
+  217  cd helloWorld
+  218  git status
+  219  touch index.html
+  220  gedit index.html
+  221  gedit index.html &
+  222  git status
+  223  git add index.html 
+  224  git status
+  225  git commit -m "création de squelette index.html"
+  226  git config --global user.email "emrecaydin00@gmail.com"
+  227  git config --global user.name "emre"
+  228  git commit
+  229  git status
+  230  git push
+  231  gedit
+  232  gedit index.html 
+  233  git status
+  234  git add
+  235  git add index.html 
+  236  git status
+  237  git commit -m "title changé"
+  238  git push
+  239  gedit index.html 
+  240  git status
+  241  git add index.html 
+  242  git commit -m "ajouté h1"
+  243  git push
+  244  git status
+  245  gedit
+  246  gedit index.html 
+  247  git status
+  248  git add index.html 
+  249  git status
+  250  git commit -m "h2 ajouté"
+  251  git push 
+  252  git status
+  253  mkdir challenge CSS
+  254  rm challenge CSS
+  255  rm -r challenge
+  256  rm -r CSS
+  257  mkdir challenge-css
+  258  touch index.html
+  259  touch style.css
+  260  ls
+  261  cd challenge-css
+  262  ls
+  263  cd ..
+  264  mv index.html challenge-css
+  265  mv style.css challenge-css
+  266  cd challenge-css
+  267  gedit index.html 
+  268  sudo apt insall git
+  269  sudo apt update
+  270  sudo apt install git
+  271  apt-get installlibgconf-2-4
+  272  git status
+  273  mkdir wild-git
+  274  ls
+  275  cd wild-git
+  276  git init
+  277  git status
+  278  ls -a
+  279  man git
+  280  touch wild.html
+  281  git push
+  282  git add wild.html
+  283  git commit -m "Wild.html added"
+  284  git status
+  285  git log -p
+  286  git remote add origin <REMOTE_URL>
+  287  git remote -v
+  288  git clone <https://github.com/emrecaydin/my-super-website/tree/master>
+  289  git remote add my-super-website <REMOTE_https://github.com/emrecaydin/my-super-website/tree/master>
+  290  git pull my-super-website master
+  291  git remote add origin <https://github.com/emrecaydin/my-super-website/tree/master>
+  292  git remote -v
+  293  ls
+  294  cd wild-git
+  295  commit -m "At Wild Code School, we code without shoes."
+  296  git commit -m "At Wild Code School, we code without shoes."
+  297  git log -p
+  298  git commit -m "At Wild Code School, we code without shoes."
+  299  git status
+  300  git add -A 
+  301  git commit -m "At Wild Code School, we code without shoes."
+  302  git log -p
+  303  vi wild.html
+  304  cd wild-git
+  305  git status
+  306  git add wild.htmlD
+  307  git commit -m "At Wild Code School, we code without shoes"
+  308  git log -p
+  309  cd ..
+  310  git remote add origin "https://github.com/emrecaydin/my-super-website.git"
+  311  cd ..
+  312  mkdir
+  313  ls
+  314  cd 
+  315  ls
+  316  mkdir quetes
+  317  ls
+  318  cd quetes
+  319  mkdir quete_remote
+  320  cd quete_remote
+  321  git status
+  322  git init 
+  323  git status
+  324  git remote add origin <https://github.com/emrecaydin/my-super-website.git>
+  325  git status
+  326  git remote add origin <https://github.com/emrecaydin/my-super-website.git>
+  327  git remote add origin https://github.com/emrecaydin/my-super-website.git
+  328  git status
+  329  git remote -v
+  330  ls
+  331  git pull 
+  332  git add
+  333  git clone https://github.com/emrecaydin/my-super-website.git
+  334  git push
+  335  git push <remote> <branch>
+  336  git push --set-upstream origin master
+  337  ls
+  338  rm -rf my-super-website
+  339  cd ..
+  340  rm -rf quete_remote/
+  341  git clone https://github.com/emrecaydin/my-super-website.git
+  342  ls
+  343  cd my-super-website
+  344  git push --set-upstream origin master
+  345  git status
+  346  git add
+  347  git add index.html
+  348  git status
+  349  git commit -m "title and h1 added"
+  350  git status
+  351  git push 
+  352  emrecaydin
+  353  git push 
+  354  sudo apt-get install -y curl unzip
+  355  curl -L -o planets.zip https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true
+  356  unzip planets.zip
+  357  mkdir planets
+  358  mkdir planets-categ
+  359  cd planets-categ
+  360  mkdir real
+  361  mkdir fictional
+  362  mkdir inhabited
+  363  cd real
+  364  mkdir planets_terrestre
+  365  mkdir géantes-gazeuses
+  366  ls
+  367  cd ..
+  368  ls
+  369  planets
+  370  cd planets
+  371  ls
+  372  cp earth /bewas/planets-categ/real/planets_terrestre
+  373  cp earth.jpeg /bewas/planets-categ/real/planets_terrestre
+  374  cp earth.jpeg home/bewas/planets-categ/real/planets_terrestre
+  375  cd
+  376  cd planets
+  377  cp earth.jpeg /home/emre/planets-categ/real/
+  378  cd ..
+  379  cd planets-categ
+  380  cd real/
+  381  mv earth.jpeg planets_terrestre/
+  382  cd ..
+  383  cd planets
+  384  ls
+  385  mv mars.jpeg /home/emre/planets-categ/real/
+  386  ls
+  387  mv mercury.jpeg /home/emre/planets-categ/real/
+  388  ls
+  389  mv venus.jpeg /home/emre/planets-categ/real/
+  390  cd /home/emre/planets-categ/real/
+  391  ls
+  392  mv mercury.jpeg venus.jpeg mars.jpeg planets_terrestre/
+  393  ls
+  394  cd
+  395  cd planets
+  396  ls
+  397  mv jupiter.jpeg saturne.jpeg uranus.jpeg neptune.jpeg /home/emre/planets-categ/real/géantes-gazeuses/
+  398  ls
+  399  mv saturn.jpeg /home/emre/planets-categ/real/géantes-gazeuses/
+  400  ls
+  401  cd ..
+  402  cd planets-categ/
+  403  ls
+  404  mkdir terrestrial
+  405  mkdir gas-géant
+  406  ls
+  407  mkdir real
+  408  mkdir fictional
+  409  mkdir inhabited
+  410  mkdir terrestrial
+  411  mkdir gas-giants
+  412  mkdir dwarf-planets
+  413  ls
+  414  cd ..
+  415  cd planets
+  416  ls
+  417  cd ..
+  418  unzip planets.zip
+  419  cd planets
+  420  ls
+  421  cd ..
+  422  cd planets-categ/
+  423  ls
+  424  cd real
+  425  mkdir gas-giants
+  426  ls
+  427  mkdir terrestrial
+  428  cd ..
+  429  ls
+  430  rm -r gas-giants
+  431  ls
+  432  rm -r terrestrial
+  433  ls
+  434  cd..
+  435  cd ..
+  436  pl
+  437  cd planets
+  438  cp earth.jpeg /home/emre/planets-categ/inhabited/
+  439  cp earth.jpeg /home/emre/planets-categ/real/terrestrial/
+  440  ls
+  441  cp cybertron.jpeg /home/emre/planets-categ/inhabited/
+  442  mv cybertron.jpeg /home/emre/planets-categ/fictional/
+  443  ls
+  444  cp coruscant.jpeg /home/emre/planets-categ/inhabited/
+  445  mv coruscant.jpeg /home/emre/planets-categ/fictional/
+  446  ls
+  447  cp arrakis.jpeg /home/emre/planets-categ/inhabited/
+  448  mv arrakis.jpeg /home/emre/planets-categ/fictional/
+  449  mv saturn.jpeg /home/emre/planets-categ/real/gas-giants/
+  450  mv uranus.jpeg /home/emre/planets-categ/real/gas-giants/
+  451  mv jupiter.jpeg /home/emre/planets-categ/real/gas-giants/
+  452  mv neptune.jpeg /home/emre/planets-categ/real/gas-giants/
+  453  ls
+  454  mv earth.jpeg /home/emre/planets-categ/real/terrestrial/
+  455  ls
+  456  mv mercury.jpeg /home/emre/planets-categ/real/terrestrial/
+  457  mv mars.jpeg /home/emre/planets-categ/real/terrestrial/
+  458  mv venus.jpeg /home/emre/planets-categ/real/terrestrial/
+  459  ls
+  460  unzip planets.zip
+  461  mkdir planet-categ
+  462  ls
+  463  cd planet-categ/
+  464  mkdir real
+  465  cd real/
+  466  mkdir gas-giants
+  467  mkdir terrestrial
+  468  cd ..
+  469  mkdir inhabited
+  470  mkdir fictional
+  471  ls
+  472  cd ..
+  473  cd planet
+  474  cd planets
+  475  cp earth.jpeg /home/emre/planet-categ/inhabited/
+  476  mv earth.jpeg /home/emre/planet-categ/real/terrestrial/
+  477  cp earth.jpeg /home/emre/planet-categ/inhabited/
+  478  cp cybertron.jpeg /home/emre/planet-categ/inhabited/
+  479  mv cybertron.jpeg /home/emre/planet-categ/fictional/
+  480  cp arrakis.jpeg /home/emre/planet-categ/inhabited/
+  481  cp saturn.jpeg /home/emre/planet-categ/real/gas-giants/
+  482  mv uranus.jpeg /home/emre/planet-categ/real/gas-giants/
+  483  mv jupiter.jpeg /home/emre/planet-categ/real/gas-giants/
+  484  mv neptune.jpeg /home/emre/planet-categ/real/gas-giants/
+  485  mv mercury.jpeg /home/emre/planet-categ/real/terrestrial/
+  486  mv mars.jpeg /home/emre/planet-categ/real/terrestrial/
+  487  mv venus.jpeg /home/emre/planet-categ/real/terrestrial/
+  488  cd ..
+  489  cd planet-categ/
+  490  find
+  491  cd planet-categ/
+  492  find
+  493  history
