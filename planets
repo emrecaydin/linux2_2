@@ -1,0 +1,20 @@
+emre@bewas:~$ cd planet-categ/
+emre@bewas:~/planet-categ$ find
+.
+./inhabited
+./inhabited/cybertron.jpeg
+./inhabited/arrakis.jpeg
+./inhabited/earth.jpeg
+./real
+./real/terrestrial
+./real/terrestrial/venus.jpeg
+./real/terrestrial/mercury.jpeg
+./real/terrestrial/mars.jpeg
+./real/terrestrial/earth.jpeg
+./real/gas-giants
+./real/gas-giants/uranus.jpeg
+./real/gas-giants/saturn.jpeg
+./real/gas-giants/jupiter.jpeg
+./real/gas-giants/neptune.jpeg
+./fictional
+./fictional/cybertron.jpeg
